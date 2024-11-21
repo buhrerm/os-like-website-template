@@ -1,0 +1,10 @@
+Create a component design inspired by early 2000s tech and terminal interfaces. Use a dark background, preferably a deep charcoal or near-black (#0C0C0C).
+Main text should be in a bright, sharp green (#00FF00) or amber (#FFB000) to mimic old CRT monitors. Use a monospaced font like 'Courier New' or 'Lucida Console' for authenticity.
+Incorporate subtle scanlines across the interface to emulate a CRT screen effect. Add a slight green or amber glow to text and UI elements for that classic terminal feel.
+Include sharp, high-contrast accents in colors like electric blue (#0080FF) or neon pink (#FF00FF) for highlights and interactive elements.
+For buttons and interactive areas, use beveled edges and a slight 3D effect to resemble old hardware interfaces. Consider adding faux LED indicators using small, bright dots of red, green, or yellow.
+Optionally, implement an LCD-style display for certain information panels. This should have a segmented number/letter style, similar to digital alarm clocks of the era. Include the ability to toggle this on/off, showing a 'blank' LCD when off.
+Add subtle 'computer noise' elements like small pixelated icons, minimal line-based graphics, or patterns reminiscent of ASCII art.
+The overall layout should be boxy and grid-based, avoiding modern rounded corners or smooth gradients. Use hard edges and distinct sections to separate different areas of the interface.
+Consider adding a 'boot-up' or 'login' sequence animation when the component first loads, featuring cascading text or a progress bar to enhance the retro tech feel.
+Remember to maintain a balance between authenticity and usability – while we want the early 2000s tech vibe, the interface should still be functional and readable for modern users.

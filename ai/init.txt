@@ -1,0 +1,3 @@
+There is a site https://poolsuite.net/. You know all about it. Here is its html:
+
+It includes a bootup screen with a super cool animation in its style, has a bunch of apps. And most importantly has a "radio" app that plays music. Create a complete stylistic suplicate of this site for a hip hop producer "mmeds" It should have the radio app, with his beats that load on staartup. And a "guestbook" / reviews  that can go by a hip-hoppy - stylistically in tune name that makes sense for a producdder. This is for an INCREDIBLY vip producer. Details, refinement is absolutely paramount

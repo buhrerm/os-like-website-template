@@ -1,0 +1,20 @@
+Create for me a tsx animation component that has teh following capabilities:
+
+Visual:
+This component is an animation of a record player, seen from the side. It is tilted slightly upwards so you can see the 3d animation of the record
+
+For style of this animation, make it miami vice / old school anime
+
+The playing animation should be distinct and noticable
+The background should be transparent.
+
+
+Functionality: 
+When hitting play, needle drops down onto record
+When polaying, the record constantly spins
+When stopping, needle goes off record
+When switching stations, record gets removed from player and a new one is placed down.
+
+The component should take into it play, pause, if the record is switched. 
+
+

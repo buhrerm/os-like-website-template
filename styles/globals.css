@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind utilities;
+
+@layer utilities {
+  @keyframes bootProgress {
+    0% { width: 0; }
+    100% { width: 100%; }
+  }
+
+  .animate-boot-progress {
+    animation: bootProgress 3s linear;
+  }
+}
+
+.retro-grid {
+  background-image: linear-gradient(rgba(255, 107, 107, 0.1) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(255, 107, 107, 0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+}

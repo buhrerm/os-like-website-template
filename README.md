@@ -1,4 +1,4 @@
-# mmeds OS
+# Me OS
 
 ## Getting Started
 
